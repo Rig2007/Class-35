@@ -1,2 +1,2 @@
-# Class-35
-Multiplayer Game
+# C35_SynchronousBallMoment_StudentActivity
+Student Activity
